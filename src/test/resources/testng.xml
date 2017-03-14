@@ -5,7 +5,7 @@
         <groups>
             <run>
                 <include name="passed test"/>
-                <include name="fail test"/>
+                <!--<include name="fail test"/>-->
             </run>
         </groups>
         <classes>
